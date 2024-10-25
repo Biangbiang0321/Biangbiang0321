@@ -1,0 +1,28 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#BusArrivalv2/@Element",
+    "BusStopCode": "20251",
+    "Services": [
+        {
+            "ServiceNo": "176",
+            "Operator": "SMRT",
+            "NextBus": {
+                "Origin": "10009",
+                "Destination": "45009",
+                "EstArrival": "2020-02-12T14:09:11+08:00",
+                "Lat": "1.301219",
+                "Long": "103.762202"
+            }
+        },
+        {
+            "ServiceNo": "78",
+            "Operator": "TTS",
+            "NextBus": {
+                "Origin": "28009",
+                "Destination": "28009",
+                "EstArrival": "2020-02-12T14:09:09+08:00",
+                "Lat": "1.30693",
+                "Long": "103.73333"
+            }
+        }
+    ]
+}
